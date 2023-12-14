@@ -1,13 +1,13 @@
 {
-  "scripts": {
-    "demo": "ts-node hello.ts"
-  },
-  "devDependencies": {
-    "@types/cookie-parser": "1.4.1",
-    "@types/set-cookie-parser": "0.0.3",
-    "cookie-parser": "1.4.3",
-    "set-cookie-parser": "2.2.1",
-    "ts-node": "7.0.1",
-    "typescript": "3.2.2"
-  }
+    "scripts": {
+        "start": "ts-node hello.ts"
+    },
+    "devDependencies": {
+        "@types/cookie-parser": "1.4.1",
+        "@types/set-cookie-parser": "0.0.3",
+        "cookie-parser": "1.4.3",
+        "set-cookie-parser": "2.2.1",
+        "ts-node": "7.0.1",
+        "typescript": "3.2.2"
+    }
 }
